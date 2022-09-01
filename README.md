@@ -1,0 +1,5 @@
+- 👋 Hola! mi nombre es Mauricio Cortés
+- 👀 Soy un desarrollador Front apasionado, con interes en esta en constante aprendizajes y desafios.
+- 🌱 Tengo experiencia como desarrollador en Angular y React.
+- 💞️ Uno de mis hobbies favoritos son los radio controlados y el atletismo.
+- 📫 Si quieres conocer más de mi, buscame en mi [[LinkedIn](https://www.linkedin.com/in/mauricio-cort%C3%A9s-fajardo-a49829122/)].
